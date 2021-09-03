@@ -1,7 +1,15 @@
+body {
+    background-color: #E5E5E5;
+}
+
 .nav-icon {
     width: 30px;
 }
 
 .nav-image {
     width: 30px;
+}
+
+.player img {
+    width: 56px;
 }
