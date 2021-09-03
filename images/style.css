@@ -13,3 +13,11 @@ body {
 .player img {
     width: 56px;
 }
+
+.top-player {
+    background-color: white;
+}
+
+main {
+    max-width: 870px;
+}
