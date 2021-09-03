@@ -1,5 +1,6 @@
 body {
     background-color: #E5E5E5;
+    font-family: Poppins;
 }
 
 .nav-icon {
@@ -20,4 +21,12 @@ body {
 
 main {
     max-width: 870px;
+}
+
+.tex-color {
+    color: #562EFF;
+}
+
+.blog img {
+    width: 224;
 }
